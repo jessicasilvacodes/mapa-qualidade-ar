@@ -1,10 +1,10 @@
-### qualidade-ar-python
+# Qualidade do ar global
  
 "**Acompanhe a qualidade do ar global com os Azure Mapas**" pela [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/azure-maps-track-air-pollution/).
 
 Projeto aberto utilizando a linguagem Python, o Visual Studio Code e o Azure Mapas para acompanhar a qualidade do ar global - *nível iniciante*.
 
-# Objetivos de aprendizagem:
+## Objetivos de aprendizagem:
 
 - Saber mais sobre os Azure Mapas e o SDK da Web dos Mapas;
 - Criar uma conta dos Mapas do Azure;
@@ -12,7 +12,7 @@ Projeto aberto utilizando a linguagem Python, o Visual Studio Code e o Azure Map
 - Saber mais sobre o GeoJSON, o formato de dados para dados espaciais;
 - Carregar dados de qualidade do ar de uma API e mostrá-los em um mapa;
 
-# Ferramentas:
+## Ferramentas:
 
 **Azure Mapas** são uma coleção de serviços geoespaciais que usa novos dados de mapeamento para fornecer o contexto geográfico em aplicativos Web e móveis. Esses serviços incluem APIs para mapas, roteiros para veículos, clima e delimitação geográfica. Os Azure Mapas também contam com um SDK da Web que você pode usar para exibir um mapa em uma página da Web.
 
@@ -20,7 +20,7 @@ A **poluição do ar** é medida pelo **AQI** (*Índice de Qualidade do Ar*). O 
 
 **GeoJSON** é um formato de dados geoespaciais padrão baseado em JSON (*JavaScript Object Notation*).
 
-# Final output:
+## Final output:
 
 
 
