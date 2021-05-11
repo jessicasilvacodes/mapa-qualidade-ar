@@ -20,7 +20,7 @@ A **poluição do ar** é medida pelo **AQI** (*Índice de Qualidade do Ar*). O 
 
 **GeoJSON** é um formato de dados geoespaciais padrão baseado em JSON (*JavaScript Object Notation*).
 
-## Final output:
+## Output final:
 
 ![brasil](https://user-images.githubusercontent.com/32596935/117895086-0bee4280-b294-11eb-9de8-a38ea6519d3d.png)
 
