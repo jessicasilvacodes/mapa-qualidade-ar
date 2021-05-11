@@ -1,6 +1,6 @@
-# Qualidade do ar global
+# Qualidade do Ar
  
-"**Acompanhe a qualidade do ar global com os Azure Mapas**" pela [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/azure-maps-track-air-pollution/).
+"**Qualidade do ar global com os Azure Mapas**" pela [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/modules/azure-maps-track-air-pollution/).
 
 Projeto aberto utilizando a linguagem Python, o Visual Studio Code e o Azure Mapas para acompanhar a qualidade do ar global - *nível iniciante*.
 
