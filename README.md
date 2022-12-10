@@ -27,4 +27,4 @@ A **poluição do ar** é medida pelo **AQI** (*Índice de Qualidade do Ar*). O 
 ![world](https://user-images.githubusercontent.com/32596935/117894470-c54c1880-b292-11eb-9ac7-98a1e628fee8.png)
 
 
-*Análises feitas por [Jessica Silva](https://www.linkedin.com/in/leaojjessica/), em maio de 2021*.
+*Análises feitas por [Jessica Silva](https://www.linkedin.com/in/ssilvajessica/), em maio de 2021*.
